@@ -1,6 +1,6 @@
 __For the code to run, move the data/ folder and the 6 error list files in the same directory as the Python file.__
 
-# Experiment Results
+# Experiment Results - CB
 If the variations of content-based recommendation algorithms in terms of both accuracy and coverage were to be ranked, the order would be:
 1. FE = TF-IDF, >0 = TF-IDF, >0.25
 2. TF-IDF, >0.50
