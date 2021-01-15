@@ -27,5 +27,6 @@ statistically accept/reject our hypotheses. This future work can determine wheth
 __Last but not least, future work can re-run these tests with larger data-sets provided by MovieLens (e.g. ML20-M) to confirm that our results are still valid on
 larger datasets, and look at the effects on accuracy of a larger dataset.__
 
+
 1. _Jonathan L. Herlocker, Joseph A. Konstan, Al Borchers, and John Riedl. 1999. An Algorithmic Framework for Performing Collaborative Filtering. In
 Proceedings of the 1999 Conference on Research and Development in Information Retrieval. 230–237._
