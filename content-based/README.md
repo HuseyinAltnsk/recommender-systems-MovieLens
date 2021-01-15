@@ -2,10 +2,10 @@ __For the code to run, move the data/ folder and the 6 error list files in the s
 
 # Experiment Results
 If the variations of content-based recommendation algorithms in terms of both accuracy and coverage were to be ranked, the order would be:
-(1) FE = TF-IDF, >0 = TF-IDF, >0.25
-(2) TF-IDF, >0.50
-(3) TF-IDF, >0.75
-(4) TF-IDF, =1
+1. FE = TF-IDF, >0 = TF-IDF, >0.25
+2. TF-IDF, >0.50
+3. TF-IDF, >0.75
+4. TF-IDF, =1
 
 ### CONCLUDING NOTES
 This result did not fully align with the initial hypothesis that TF-IDF will perform better than FE due to the inverse document frequency term. TF-IDF is not worse than FE either, they are just evenly matched in our experiment in both accuracy and coverage metrics. Moreover, the team realized the computation of the FE algorithm was faster than TF-IDF by a couple of factors in our implementations. __Given that this is the only advantage one algorithm has over the other, we claim that FE is the best content-based algorithm choice for our given dataset.__
