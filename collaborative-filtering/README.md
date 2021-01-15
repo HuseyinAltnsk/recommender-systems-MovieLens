@@ -1,4 +1,4 @@
-# Experiment Results
+# Experiment Results - CF
 __The team concluded that we could come up with two different sets of best parameters for our dataset based on the priorities in the given system. If accuracy is prioritized over coverage, the experimentation results suggested the use of Euclidean similarity algorithm with no significance weighting and threshold seems to be the best option__ (Introducing significance weighting and similarity threshold with Euclidean limits the coverage further.). The item-based version of this system would produce more accurate but fewer recommendations than user-based, so the choice of CF algorithm depends on the need for coverage. __If coverage is prioritized over accuracy, a user-based CF recommender with Pearson similarity algorithm, no significance weighting and no similarity threshold seems to be the best choice.__
 
 ### Concluding Remarks
