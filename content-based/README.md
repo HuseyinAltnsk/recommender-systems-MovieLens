@@ -16,5 +16,7 @@ Additionally, we also expected that the similarity threshold would not result in
 
 Furthermore, related to the experiment with 6 different recommender systems, one of our hypotheses was that matrix factorization methods would produce the most meaningful results, because of its 100% coverage and high accuracy as a pure recommendation method. Our results confirmed this hypothesis and allowed us to distinguish between ALS and SGD. Firstly, matrix factorization recommenders were able to satisfy the coverage and serendipity criteria better than other methods. __In addition to that, SGD produced more varied predictions while predictions of ALS were consistently at the lower end of the range if not the lowest. Therefore, although inconclusive, our intuition is that SGD is a more reliable MF method than ALS.__
 
+- - - -
+
 1. _Jonathan L. Herlocker, Joseph A. Konstan, Al Borchers, and John Riedl. 1999. An Algorithmic Framework for Performing Collaborative Filtering. In
 Proceedings of the 1999 Conference on Research and Development in Information Retrieval. 230–237._
