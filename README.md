@@ -4,7 +4,7 @@ Recommender system implementations using several popular algorithms to recommend
 ### Collaborative-filtering RS algorithms
   * User-to-user recommendations (U-U)
   * Item-to-item recommendations (I-I)
-  * Matrix Factorization: Stocastic Gradient Descent (MF-SGD)
+  * Matrix Factorization: Stochastic Gradient Descent (MF-SGD)
   * Matrix Factorization: Alternating Least Squares (MF-ALS)
 
 ### Content-based RS algorithms
